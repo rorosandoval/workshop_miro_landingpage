@@ -1,0 +1,356 @@
+body {
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../img/fondo.png')
+}
+
+.navlink {
+    color: #000000;
+}
+
+.header {
+    vertical-align: middle;
+}
+
+.txtnav {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+
+
+}
+
+.txtparrafo1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 2.8rem;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+.txtcuadros {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 2.8rem;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+.txtparrafo2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 2.8rem;
+    color: #efc469;
+
+
+}
+
+.imgtxt {
+    width: 80%;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.boton1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.7rem;
+    line-height: 2rem;
+    color: #efc469;
+    padding: 1.25rem 1.5rem;
+}
+
+/*Clase rodrigo*/
+
+.txttitulo {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.813rem;
+    line-height: 1.7rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+
+.acordeon {
+    width: 70%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    background-color: #efc469;
+    margin: 0 auto;
+
+
+}
+
+#acordeon {
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #ffffff;
+    background-color: #efc469;
+    padding: 0.75rem 1rem;
+    margin: 0 auto;
+
+}
+
+.cuadrorojo {
+    width: 70%;
+    background-color: #C85E5F;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+.cuadroverde {
+    width: 100%;
+    background-color: #5AA69C;
+    border-radius: 0.1rem;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
+
+.txtancho {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.txtancho2 {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/*clases antonieta*/
+.txtinstructores {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    color: #000000;
+
+
+}
+
+.txtnombreinstructores {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2rem;
+    color: #000000;
+
+
+}
+
+.txttitulo2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.813rem;
+    line-height: 1.7rem;
+    color: #82B0C7;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+
+.linea1 {
+
+    border: 4.7666px solid #C5665E;
+    background-color: #C5665E;
+    width: 25%;
+
+
+}
+
+.linea2 {
+
+    border: 4.7666px solid #99CFDF;
+    background-color: #99CFDF;
+    width: 25%;
+
+
+}
+
+.lineaacordeon {
+
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+    opacity: 100%;
+}
+
+.textofooter {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 2rem;
+    color: #FFFFFF;
+
+
+}
+
+.footer2 {
+    background-color: #000000;
+}
+
+/*VERSION MOBILE*/
+
+.fondoheadermob {
+    background-color: #99CFDF;
+    padding-bottom: 5%;
+    margin: 0 auto;
+}
+
+.fondomob1 {
+    background-color: #75ABBF;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: 0 auto;
+    background-image: url('../img/fondosm1.png');
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: 5%;
+    
+}
+
+.fondomob2 {
+    background-color: #5AA69C;
+    margin: 0 auto;
+    
+}
+
+.fondomob3 {
+    background-color: #E6E6E7;
+    margin: 0 auto;
+    background-image: url('../img/molecula.png');
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position-x: 90%;
+    background-position-y: 0.2%;
+}
+
+.txtparrafomob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: #EFC469;
+    text-align: center;
+
+
+}
+
+.acordeonmob {
+    width: 70%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    background-color: #efc469;
+    margin: 0 auto;
+
+
+}
+
+#acordeonmob {
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: #ffffff;
+    background-color: #efc469;
+    padding: 0.75rem 1rem;
+    margin: 0 auto;
+
+}
+
+.lineaacordeonmob {
+
+    border: 0.1rem solid #ffffff;
+    background-color: #ffffff;
+    opacity: 100%;
+}
+
+.txtparrafo1mob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+.txtcuadrosmob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
+
+.txtnombreinstructoresmob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2rem;
+    color: #000000;
+
+
+}
+
+.txtinstructoresmob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: #000000;
+
+
+}
+
+.txtparrafo1mob {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    color: #FFFFFF;
+
+
+}
