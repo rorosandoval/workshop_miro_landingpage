@@ -2,16 +2,50 @@ body {
     min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../img/fondo.png')
+    background-image: none
 }
 
 .navlink {
-    color: #000000;
+    color: #fff;
 }
+
+.navlinkpublicar {
+    color: #fff;
+    background-color: #0B9385;
+    border-radius: 50px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+    
+}
+
+.boton-subir {
+    position: fixed;
+    top: 450px;
+    right: 62px;
+    width: 200px; /* Ajusta el ancho del botón según tus necesidades */
+    height: 200px; /* Ajusta la altura del botón según tus necesidades */
+    background-image: url(../img/boton-subir.png);
+    background-size: cover;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+  }
 
 .header {
     vertical-align: middle;
+    background-image: url('');
 }
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+    opacity: 100; /* Ajusta la opacidad según tus necesidades */
+  }
 
 .txtnav {
     font-family: 'Poppins', sans-serif;
@@ -19,7 +53,7 @@ body {
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
-    color: #000000;
+    color: #ffffff;
 
 
 }
@@ -75,7 +109,6 @@ body {
     padding: 1.25rem 1.5rem;
 }
 
-/*Clase rodrigo*/
 
 .txttitulo {
     font-family: 'Poppins', sans-serif;
@@ -141,7 +174,6 @@ body {
     margin: 0 auto;
 }
 
-/*clases antonieta*/
 .txtinstructores {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
